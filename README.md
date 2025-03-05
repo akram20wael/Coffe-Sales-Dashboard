@@ -1,5 +1,5 @@
-# Coffe-Sales-Dashboard
-Coffee Sales Dashboard ☕ An Excel-based dashboard analyzing coffee sales trends by region, customer, and time. Features include sales trends over time, top-performing countries, and key customers. Provides insights for decision-making with charts, pivot tables, and sales metrics to track performance. 🚀
+
+
 ☕ Coffee Sales Dashboard
 📊 Overview
 This Coffee Sales Dashboard provides an in-depth analysis of coffee sales trends across different regions, customers, and time periods. Built using Excel, it visualizes key metrics such as total sales over time, top-performing countries, and high-value customers to support data-driven decision-making.
